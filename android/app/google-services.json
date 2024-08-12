@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1068170748256",
+    "project_id": "mentalyapb",
+    "storage_bucket": "mentalyapb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068170748256:android:77bfee9b3ea01989bc7e05",
+        "android_client_info": {
+          "package_name": "com.example.apb_mentaly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy8RTCxGdZLdwQwFqNIiGnTFxGiP-_Cqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
